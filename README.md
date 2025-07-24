@@ -19,6 +19,5 @@ Este repositorio contiene materiales de estudio y práctica para la materia Mate
             * **[2023](/2025/Parciales/Estadística%20(2do%20parcial)/2023/)**
             * **[2024](/2025/Parciales/Estadística%20(2do%20parcial)/2024/)**
             * **[S/F](/2025/Parciales/Estadística%20(2do%20parcial)/SinFecha/)**: Parciales sin fecha específica.
-    * **[Prácticas](/2025/Prácticas)**: Ejercicios de práctica (1, 2 y 6 solamente).
-    * **[Apuntes de clase](2025/MATE3%20-%20Apuntes%20de%20clases.pdf)**: Apuntes de las primeras clases de la materia.
-*
+* **[Prácticas](/2025/Prácticas)**: Ejercicios de práctica (1, 2 y 6 solamente).
+* **[Apuntes de clase](2025/MATE3%20-%20Apuntes%20de%20clases.pdf)**: Apuntes de las primeras clases de la materia.

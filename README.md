@@ -3,10 +3,10 @@
 Este repositorio contiene materiales de estudio y práctica para la materia Matemática 3.
 
 ## 2025
-*    **[Parciales](/2025/Parciales)**: Exámenes parciales de años anteriores.
+*    **[Parciales](/2025/Parciales)**: Exámenes y resumenes de parciales de años anteriores.
         * **[Estadística (2do parcial)](/2025/Parciales/Estadística%20(2do%20parcial))**: Parciales relacionados con la sección de Estadística.
-            * **`2015/`**: Parciales del año 2015.
-            * **`2017/`**: Parciales del año 2017.
+            * **[2015](/2025/Parciales/Estadística%20(2do%20parcial)/2015/)**
+            * **[2017](/2025/Parciales/Estadística%20(2do%20parcial)/2017/)**
             * **`2019/`**: Parciales del año 2019.
             * **`2020/`**: Parciales del año 2020.
             * **`2021/`**: Parciales del año 2021.

@@ -4,7 +4,7 @@ Este repositorio contiene materiales de estudio y práctica para la materia Mate
 
 ## 2025
 *
-   * **[Parciales](tree/main/2025)**: Exámenes parciales de años anteriores.
+   * **[Parciales](/2025/Parciales)**: Exámenes parciales de años anteriores.
         * **`Estadística (2do parcial)/`**: Parciales relacionados con la sección de Estadística.
             * **`2015/`**: Parciales del año 2015.
             * **`2017/`**: Parciales del año 2017.
